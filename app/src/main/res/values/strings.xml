@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GreenShop</string>
+    <string name="introText">Unveiling a World <font color="#169955">Beauty &amp; Cosmetic</font> Products!</string>
+    <string name="introSubtitle">Browse the latest styles form top brands \n Get personalized recommendation\n Enjoy fast, free shipping</string>
+    <string name="let_s_get_started">Let\'s Get Started</string>
+</resources>

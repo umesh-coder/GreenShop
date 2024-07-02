@@ -1,0 +1,23 @@
+
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+n
+>app/src/main/java/com/umesh/greenshop/Activity/BaseActivity.kt,7\1\71de6b2d0568ffb5b3d6e2d9fda486bfa7c5e17d
+j
+:app/src/main/java/com/umesh/greenshop/Model/SliderModel.kt,d\9\d900c75c817d77f25ca76bd63d89c1a300f2dc4b
+p
+@app/src/main/java/com/umesh/greenshop/ViewModel/MainViewModel.kt,2\c\2cc108b52994447b567b575b411566619cfdf1b9
+n
+>app/src/main/java/com/umesh/greenshop/Adapter/SliderAdapter.kt,d\1\d1c337b42d3b968e3e3150787eda0e91aeb34570
+n
+>app/src/main/java/com/umesh/greenshop/Activity/MainActivity.kt,8\c\8c5831f0d8a4eb93d445c9109f76a8340e141b8f
+p
+@app/src/main/java/com/umesh/greenshop/Adapter/CategoryAdapter.kt,a\d\ad343d48a7747acf3d6dfa0f350a99cf7439ba12
+l
+<app/src/main/java/com/umesh/greenshop/Model/CategoryModel.kt,d\d\dd2e660f2096da5db53f2223a864edc9c8f319d8
+i
+9app/src/main/java/com/umesh/greenshop/Model/ItemsModel.kt,9\d\9dcdf1154d580fcd1d2daaaf58b547a926e915de
+v
+Fapp/src/main/java/com/umesh/greenshop/Adapter/RecommendationAdapter.kt,d\0\d023980171009a018d7eb136bac37e5c928b75db

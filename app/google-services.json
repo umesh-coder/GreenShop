@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753730132725",
+    "project_id": "greenshop-22fdd",
+    "storage_bucket": "greenshop-22fdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753730132725:android:fe7fd86738577d48d303bc",
+        "android_client_info": {
+          "package_name": "com.umesh.greenshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfCA7C87A1bU0QKKLXNDDQ3sLIFQn3jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
