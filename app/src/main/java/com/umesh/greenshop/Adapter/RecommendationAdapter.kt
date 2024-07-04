@@ -1,11 +1,13 @@
 package com.umesh.greenshop.Adapter
 
 import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
+import com.umesh.greenshop.Activity.DetailActivity
 import com.umesh.greenshop.Model.ItemsModel
 import com.umesh.greenshop.databinding.ViewholderRecommendBinding
 
@@ -33,6 +35,13 @@ class RecommendationAdapter(val items: MutableList<ItemsModel>) :
 
         Glide.with(holder.itemView.context).load(items[position].picUrl[0])
             .apply(RequestOptions.centerCropTransform()).into(holder.binding.productPic)
+
+        holder.itemView.setOnClickListener {
+            val intent = Intent(holder.itemView.context, DetailActivity::class.java)
+            intent.putExtra("object", items[position])
+            holder.itemView.context.startActivity(intent)
+
+        }
     }
 
     override fun getItemCount(): Int = items.size

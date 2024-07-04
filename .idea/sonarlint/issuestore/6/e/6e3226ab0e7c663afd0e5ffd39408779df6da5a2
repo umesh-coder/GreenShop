@@ -1,0 +1,73 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ãüùÿÿÿÿJ$36ee1a16-3053-431d-867b-98f364e00f92
+e
+java:S5411"(Use a primitive boolean expression here.(¸è×¨J$12aace00-0a4b-4637-8042-785228ac6b3b
+l
+java:S1066–"/Merge this if statement with the enclosing one.(ºó¢ŠJ$c9e0dad8-9e4b-46d1-a7aa-839d5a7d58f1
+q
+java:S1066±"/Merge this if statement with the enclosing one.(ÎšôşÿÿÿÿJ$6dc551ad-20b2-41ff-945c-8d17a4d90be8
+²
+java:S1319å"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(é»ê·úÿÿÿÿJ$a0643f29-d7cf-4376-a28a-41ac46dba4de
+²
+java:S1319›"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(İÜùíøÿÿÿÿJ$395901c4-b7f3-417f-bd0c-bce3122e488b
+­
+java:S1319¬"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÓÅº£J$8b59f545-6173-4571-be2f-0b5bbc32c73b
+²
+java:S1319Ç"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(é¯ŠûûÿÿÿÿJ$ce2bc96f-3313-4ce6-9d79-e9ce08421196
+­
+java:S1319Û"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¶ÄÛÀJ$fae96f88-e005-4ff8-98bf-9facdbe2525d
+­
+java:S1319í"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(­ˆ¦íJ$8ed6a972-02dd-46b1-8366-b843a88a9058
+©
+java:S1319”"gThe type of "intList" should be an interface such as "List" rather than the implementation "ArrayList".(¼Ë¶üÿÿÿÿJ$3a2cf355-8506-4ef4-aad4-ae2d1d5416e2
+ª
+java:S1319«"hThe type of "longList" should be an interface such as "List" rather than the implementation "ArrayList".(¨ŒŠ¶úÿÿÿÿJ$37cecea3-c9ad-4489-9dda-90028919b30d
+¬
+java:S1319Í"jThe type of "doubleList" should be an interface such as "List" rather than the implementation "ArrayList".(„Ÿ¤øÿÿÿÿJ$9c4a69b8-ff68-42dc-877c-1401a60e2e21
+§
+java:S1319å"jThe type of "stringList" should be an interface such as "List" rather than the implementation "ArrayList".(â»í·J$8427ad13-cdf7-46b0-8853-adacf8928312
+¥
+java:S1319ü"hThe type of "boolList" should be an interface such as "List" rather than the implementation "ArrayList".(™ƒ¶ßJ$96e03366-ecbe-46e0-896a-4af300e2b0c8
+§
+java:S1319—"jThe type of "playerList" should be an interface such as "List" rather than the implementation "ArrayList".(›·ºJ$3b66c39b-cbeb-4202-bba9-c7b642d7bf4f
+›
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").(û»ÅİùÿÿÿÿJ$17a13ee1-8f73-4208-8247-162ce05e9789
+–
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(àçºÆJ$ed40d9c6-d086-442c-b2c6-0368abae6974
+›
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(û»ÅİùÿÿÿÿJ$2f305329-fb6a-442f-abb8-c24810a67247
+›
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìãµ°ùÿÿÿÿJ$497e24b9-2018-4136-9831-f30006b0cb8d
+›
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(û»ÅİùÿÿÿÿJ$29f6d38c-98b6-408b-9140-68c424a17284
+›
+java:S2293¯"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŞÔ‘³üÿÿÿÿJ$7d2587a7-3297-4975-9fa9-dbd8e77377a2
+›
+java:S2293È"YReplace the type specification in this constructor call with the diamond operator ("<>").(œ¡ÜÃùÿÿÿÿJ$a43ba235-8bf6-4b02-bbcf-fbd4924b0643
+›
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ëÿ¡ïùÿÿÿÿJ$791e5d5d-e896-46e4-9ed1-06bf804aa5a3
+–
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(™Ç¦ûJ$00f225bd-e1e8-40ea-9012-079bf54e4744
+–
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰«×õJ$ce3db9db-1b96-4544-a2c4-157c06a956fa
+–
+java:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ƒ¿çJ$0ce42fea-8f68-4776-929e-598f6d590625
+°
+java:S4165Â"nRemove this useless assignment; "bitmapCompressed" already holds the assigned value along all execution paths.(ÖÙûŠüÿÿÿÿJ$d08c006d-584d-43bd-9cce-c1fd17d85d01
+¥	java:S1160"jRename this field "DEFAULT_APP_IMAGEDATA_DIRECTORY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Şß´ÔJ$5e0a2e19-a548-45f1-a24e-7be43e9a7ab0
+z
+java:S18744"9Remove this use of "PreferenceManager"; it is deprecated.(£×î²şÿÿÿÿJ$9ef3774d-d7af-4207-8026-988dd4dd077c
+„
+java:S18744"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(£×î²şÿÿÿÿJ$2824224c-4f78-499e-baa7-51c8233968cc
+n
+java:S1135X"2Complete the task associated to this TODO comment.(‡ñÅ¼J$ca1dc525-6575-4050-a54e-a6c1aeafad57
+
+java:S4042±"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ÎšôşÿÿÿÿJ$367c1ffa-0b1a-459a-b5b7-cb7977c7f636
+l
+java:S2093¼"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿJ$a25795ba-7e98-413a-b431-f74f5ab5764b
+
+java:S1126à"BReplace this if-then-else statement by a single method invocation.(¥ŞŠ²J$8dcd9e7d-d146-4f49-84b1-b6015af4315d
+‹
+java:S4042±"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(¥Ç¼ÖJ$db62f372-10d0-4881-90eb-2c02ef552f37
+h
+java:S1452À"&Remove usage of generic wildcard type.(Ç ù™üÿÿÿÿJ$6c0115e4-f558-4988-8af6-45c1c18abe68

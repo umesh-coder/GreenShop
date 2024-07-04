@@ -1,5 +1,6 @@
 package com.umesh.greenshop.Activity
 
+import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import androidx.recyclerview.widget.GridLayoutManager
@@ -28,6 +29,13 @@ class MainActivity : BaseActivity() {
         initBanners()
         initCategory()
         initRecommended()
+        initBottomMenu()
+    }
+
+    private fun initBottomMenu() {
+        binding.cartButton.setOnClickListener {
+            startActivity(Intent(this@MainActivity, CartActivity::class.java))
+        }
     }
 
     private fun initBanners() {
